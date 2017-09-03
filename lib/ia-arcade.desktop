@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Internet Arcade Games
+Name[es_AR]=Juegos Arcade de Internet
+Name[fr_FR]=Jeux Arcades d'Internet
+Name[ja_JP]=インターネットアーケードゲーム
+Name[pl_PL]=Gry Internet Arcade
+Name[pt_BR]=Internet Arcade Games
+Name[pt_PT]=Internet Arcade Games
+Name[sv_SE]=Internet Arkad
+GenericName=Internet Arcade
+Comment=Play Online Internet Arcade Games
+Comment[es_AR]=Juegue online juegos Arcade de Internet
+Comment[fr_FR]=Jouer en ligne les jeux Arcades d'Internet
+Comment[it_IT]=Gioca agli Arcade online
+Comment[ja_JP]=オンラインでインターネットアーケードゲームをプレイ
+Comment[pl_PL]=Graj OnLine w gry Arcade
+Comment[pt_BR]=Jogar Jogos de Arcada na Internet
+Comment[pt_PT]=Jogar Jogos de Arcada na Internet
+Comment[sv_SE]=Spela Internet-arkadspel på nätet
+Exec=x-www-browser https://archive.org/details/internetarcade
+Icon=gnome-mahjongg
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Game;

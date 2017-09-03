@@ -1,0 +1,27 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Classic PC Games
+Name[es_AR]=Juegos clásicos de PC
+Name[fr_FR]=Jeux PC classiques
+Name[ja_JP]=クラシックパソコンゲーム
+Name[pl_PL]=Klasyczne Gry PC
+Name[pt_BR]=Jogos Clássicos para PC
+Name[pt_PT]=Jogos Clássicos para PC
+Name[sv_SE]=Klassiska PC-spel
+GenericName=Classic PC Games
+Comment=Play Online Classic PC Games
+Comment[es_AR]=Juegue online juegos clásicos de PC
+Comment[fr_FR]=Jouer en ligne les jeux PC classiques
+Comment[it_IT]=Gioca online ai Classici per PC
+Comment[ja_JP]=オンラインでクラシックパソコンゲームをプレイ
+Comment[pl_PL]=Graj OnLine w klasyczne gry PC
+Comment[pt_BR]=Jogar Jogos Clássicos On-line no PC
+Comment[pt_PT]=Jogar Jogos Clássicos On-line no PC
+Comment[sv_SE]=Spela klassiska PC-spel på nätet
+Exec=x-www-browser https://archive.org/details/classicpcgames
+Icon=gnome-gnibbles
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Game;

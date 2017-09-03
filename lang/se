@@ -1,0 +1,23 @@
+# Svensk språkfil för Sparky Compton.
+# Copyright 2015 Johnny Rosenberg <johnny.a.rosenberg@gmail.com> 2015-11-14
+# Under GNU GPL v2
+# Last update 2017/06/06 by pavroo
+
+LOCAL1="Spela gamla från Internet-arkivet på nätet\ni din webbläsare."
+LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
+
+### sparky-ia.desktop file to be translated too
+# Name[sv_SE]=Spel från Internet-arkivet
+# Comment[sv_SE]=Spela spel från Internet-arkivet på nätet
+
+### ia-arcade.desktop file to be translated too
+# Name[sv_SE]=Internet Arkad
+# Comment[sv_SE]=Spela Internet-arkadspel på nätet
+
+### ia-classicpc.desktop file to be translated too
+# Name[sv_SE]=Klassiska PC-spel
+# Comment[sv_SE]=Spela klassiska PC-spel på nätet
+
+### ia-msdos.desktop file to be translated too
+# Name[sv_SE]=MS-DOS-spel
+# Comment[sv_SE]=Spela MS-DOS-spel på nätet

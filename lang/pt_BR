@@ -1,0 +1,25 @@
+# Arquivo de localização para Portugues  do Brasil do Sparky IA.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu>  2015/11/04
+# Traduzido por  Joel Chaves "Flacc"  <joel_chaves@icloud.com> 26/01/2016
+# Revisado e adaptado por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 29/01/2016
+# Sob a Licença GNU GPL v2
+# Last update 2017/06/06 by pavroo
+
+LOCAL1="Jogue jogos antigos online a partir de Internet dentro do seu navegador."
+LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
+
+### Arquivo a ser traduzido também sparky-ia.desktop
+# Name[pt_BR]=Jogos Jogos antigos na Internet
+# Comment[pt_BR]=Jogar on-line Jogos antigos Internet
+
+### Arquivo a ser traduzido também ia-arcade.desktop
+# Name[pt_BR]=Internet Arcade Games
+# Comment[pt_BR]=Jogar Jogos de Arcada na Internet
+
+### Arquivo a ser traduzido também ia-classicpc.desktop
+# Name[pt_BR]=Jogos Clássicos para PC
+# Comment[pt_BR]=Jogar Jogos Clássicos On-line no PC
+
+### Arquivo a ser traduzido também ia-msdos.desktop
+# Name[pt_BR]=Jogos em MS-DOS
+# Comment[pt_BR]=Jogar On-line Jogos em MS-DOS

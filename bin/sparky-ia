@@ -1,0 +1,50 @@
+#!/bin/bash
+#
+# Sparky-IA is a simply tool which lets you play old games
+# in a web browser via Internet Archive
+#
+# Created by Paweł "pavroo" Pijanowski 2015/05/31
+# Copyright 2015, 2016, 2017 under the GNU GPL2 License
+# Last update 2017/06/06
+
+# get default's locale file
+DEFLOCDIR="/usr/share/sparky/sparky-ia"
+if [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
+. $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep fr_FR`" != "" ]; then
+. $DEFLOCDIR/fr
+elif [ "`cat /etc/default/locale | grep it_IT`" != "" ]; then
+. $DEFLOCDIR/it
+elif [ "`cat /etc/default/locale | grep ja_JP`" != "" ]; then
+. $DEFLOCDIR/ja
+elif [ "`cat /etc/default/locale | grep pl_PL`" != "" ]; then
+. $DEFLOCDIR/pl
+elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
+. $DEFLOCDIR/pt_BR
+elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
+. $DEFLOCDIR/pt_PT
+elif [ "`cat /etc/default/locale | grep sv_SE`" != "" ]; then
+. $DEFLOCDIR/se
+else
+. $DEFLOCDIR/en
+fi
+
+DIALOG="yad --window-icon=applications-games --image=applications-games --width=400 --height=270 --image-on-top --icons"
+DIALOG450="yad --window-icon=applications-games --image=applications-games --width=450 --height=300 --center"
+TITLE="--title="
+TEXT="--text="
+WINDOWTEXT="$LOCAL1"
+TITLETEXT="Internet Archive Games"
+DIRS="--read-dir=/usr/lib/sparky-ia --item-width=100 --sort-by-name --center"
+NOBUTTONS="--no-buttons"
+MSGBOX="--button=Ok:0"
+
+# check is x-www-browser installed
+if [ ! -f /etc/alternatives/x-www-browser ]; then
+	$DIALOG450 $TITLE"$TITLETEXT" $TEXT"$LOCAL2" $MSGBOX
+	exit 0
+else
+	$DIALOG $TEXT"$WINDOWTEXT" $DIRS $TITLE"$TITLETEXT" $NOBUTTONS
+fi
+
+exit 0

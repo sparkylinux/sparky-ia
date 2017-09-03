@@ -1,0 +1,1 @@
+?package(sparky-ia):needs="X11" section="Applications/Game"        title="Internet Archive Games" command="/usr/bin/sparky-ia" icon="applications-games"

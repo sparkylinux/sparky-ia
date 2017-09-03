@@ -1,0 +1,23 @@
+# Archivo de localización en español para Sparky IA.
+# Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/23
+# Bajo la licencia GNU GPL v2
+# Last update 2017/06/06 by pavroo
+
+LOCAL1="Juegue online juegos viejos desde el Archivo de Internet\ndentro de su navegador Web."
+LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
+
+### sparky-ia.desktop file to be translated too
+# Name[es_AR]=Juegos del Archivo de Internet
+# Comment[es_AR]=Juegue online juegos del Archivo de Internet
+
+### ia-arcade.desktop file to be translated too
+# Name[es_AR]=Juegos Arcade de Internet
+# Comment[es_AR]=Juegue online juegos Arcade de Internet
+
+### ia-classicpc.desktop file to be translated too
+# Name[es_AR]=Juegos clásicos de PC
+# Comment[es_AR]=Juegue online juegos clásicos de PC
+
+### ia-msdos.desktop file to be translated too
+# Name[es_AR]=Juegos de MS-DOS
+# Comment[es_AR]=Juegue online juegos de MS-DOS
