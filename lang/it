@@ -4,7 +4,7 @@
 # Last update 2017/06/06 by pavroo
 
 LOCAL1="Gioca Online ai vecchi giochi dall'Archivio Internet\ndentro il tuo browser web."
-LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
+LOCAL2="x-www-browser non e' installato!!\n\nInstalla un web browser e prova di nuovo.\n\nSto uscendo..."
 
 ### sparky-ia.desktop file to be translated too
 # Name[it_IT]=Internet Archive Games
