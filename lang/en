@@ -2,22 +2,17 @@
 # Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
 # Under the GNU GPL v2
 # Last update 2017/06/06 by pavroo
-
 LOCAL1="Play OnLine old games from the Internet Archive\ninside your web browser."
 LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
-
 ### sparky-ia.desktop file to be translated to
 # Name[en_US]=Internet Archive Games
 # Comment[en_US]=Play Online Internet Archive Games
-
 ### ia-arcade.desktop file to be translated to
 # Name[en_US]=Internet Arcade Games
 # Comment[en_US]=Play Online Internet Arcade Games
-
 ### ia-classicpc.desktop file to be translated to
 # Name[en_US]=Classic PC Games
 # Comment[en_US]=Play Online Classic PC Games
-
 ### ia-msdos.desktop file to be translated to
 # Name[en_US]=MS-DOS Games
 # Comment[en_US]=Play Online MS-DOS Games

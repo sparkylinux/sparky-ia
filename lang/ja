@@ -3,22 +3,17 @@
 # Under the GNU GPL v2
 # Translated to Japanese by BALLOON a.k.a. Fu-sen.
 # Last update 2017/06/06 by pavroo
-
 LOCAL1="Web ブラウザを用いてオンラインで Internet Archive から\n懐かしいゲームをプレイ"
 LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
-
 ### sparky-ia.desktop file to be translated too
 # Name[ja_JP]=Internet Archive ゲーム
 # Comment[ja_JP]=オンラインで Internet Archive ゲームをプレイ
-
 ### ia-arcade.desktop file to be translated too
 # Name[ja_JP]=インターネットアーケードゲーム
 # Comment[ja_JP]=オンラインでインターネットアーケードゲームをプレイ
-
 ### ia-classicpc.desktop file to be translated too
 # Name[ja_JP]=クラシックパソコンゲーム
 # Comment[ja_JP]=オンラインでクラシックパソコンゲームをプレイ
-
 ### ia-msdos.desktop file to be translated too
 # Name[ja_JP]=MS-DOS ゲーム
 # Comment[ja_JP]=オンラインで MS-DOS ゲームをプレイ

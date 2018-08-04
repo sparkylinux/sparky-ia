@@ -1,0 +1,20 @@
+# Indonesian localization file for Sparky IA.
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# Under the GNU GPL v2
+# Last update 2018/08/03 by pavroo
+# Translated to Indonesian by les kompie
+LOCAL1="Mainkan game online jadul dari Internet Archive\ndari dalam browser web anda."
+LOCAL2="x-www-browser tidak ter-instal!\n\nInstal browser web dan coba lagi.\n\nKeluar..."
+### sparky-ia.desktop file to be translated to
+# Name[id_ID]=Game di Internet Archive
+# Comment[id_ID]=Mainkan game online di Internet Archive
+### ia-arcade.desktop file to be translated to
+# Name[id_ID]=Game Arcade di internet
+# Comment[id_ID]=Mainkan game arcade secara online
+### ia-classicpc.desktop file to be translated to
+# Name[id_ID]=Game PC Klasik
+# Comment[id_ID]=Mainkan game PC klasik secara online
+### ia-msdos.desktop file to be translated to
+# Name[id_ID]=Game MS-DOS
+# Comment[id_ID]=Mainkan game MS-DOS secara online
+

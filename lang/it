@@ -2,22 +2,17 @@
 # Copyright 2015 Carlo "malato" Troiani <abbassolafrangetta@gmail.com> 04/11/2015
 # Rilasciato sotto licenza GNU GPL v2
 # Last update 2017/06/06 by pavroo
-
 LOCAL1="Gioca Online ai vecchi giochi dall'Archivio Internet\ndentro il tuo browser web."
 LOCAL2="x-www-browser non e' installato!!\n\nInstalla un web browser e prova di nuovo.\n\nSto uscendo..."
-
 ### sparky-ia.desktop file to be translated too
 # Name[it_IT]=Internet Archive Games
 # Comment[it_IT]=Gioca con i giochi dell'Archivio Internet Online
-
 ### ia-arcade.desktop file to be translated too
 # Name[it_IT]=Internet Arcade Games
 # Comment[it_IT]=Gioca agli Arcade online
-
 ### ia-classicpc.desktop file to be translated too
 # Name[it_IT]=Classic PC Games
 # Comment[it_IT]=Gioca online ai Classici per PC
-
 ### ia-msdos.desktop file to be translated too
 # Name[it_IT]=MS-DOS Games
 # Comment[it_IT]=Gioca online ai giochi per MS-DOS

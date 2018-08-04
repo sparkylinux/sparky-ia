@@ -3,22 +3,17 @@
 # Under the GNU GPL v2
 # Translated to Polish by pavroo
 # Last update 2017/06/06 by pavroo
-
 LOCAL1="Graj OnLine w stare gry z Internet Archive\nza pośrednictwem przeglądarki www."
 LOCAL2="x-www-browser nie jest zainstalowany!\n\nZainstaluj przeglądarkę www i spróbuj ponownie.\n\nWyjście..."
-
 ### sparky-ia.desktop file, również do przetłumaczenia
 # Name[pl_PL]=Gry Internet Archive
 # Comment[pl_PL]=Graj OnLine w gry z Internet Archive
-
 ### ia-arcade.desktop file, również do przetłumaczenia
 # Name[pl_PL]=Gry Internet Arcade
 # Comment[pl_PL]=Graj OnLine w gry Arcade
-
 ### ia-classicpc.desktop file, również do przetłumaczenia
 # Name[pl_PL]=Klasyczne Gry PC
 # Comment[pl_PL]=Graj OnLine w klasyczne gry PC
-
 ### ia-msdos.desktop file, również do przetłumaczenia
 # Name[pl_PL]=Gry MS-DOS
 # Comment[pl_PL]=Graj OnLine w gry MS-DOS

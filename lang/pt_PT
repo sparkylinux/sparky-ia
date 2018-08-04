@@ -2,22 +2,17 @@
 # Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Tuesday 26 January 21:48:30 WET 2016
 # Sob a Licença GNU GPL v2
 # Last update 2017/06/06 by pavroo
-
 LOCAL1="Jogue jogos antigos online a partir de Internet dentro do seu navegador."
 LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
-
 ### Arquivo a ser traduzido também sparky-ia.desktop
 # Name[pt_PT]=Jogos Jogos antigos na Internet
 # Comment[pt_PT]=Jogar on-line Jogos antigos Internet
-
 ### Arquivo a ser traduzido também ia-arcade.desktop
 # Name[pt_PT]=Internet Arcade Games
 # Comment[pt_PT]=Jogar Jogos de Arcada na Internet
-
 ### Arquivo a ser traduzido também ia-classicpc.desktop
 # Name[pt_PT]=Jogos Clássicos para PC
 # Comment[pt_PT]=Jogar Jogos Clássicos On-line no PC
-
 ### Arquivo a ser traduzido também ia-msdos.desktop
 # Name[pt_PT]=Jogos em MS-DOS
 # Comment[pt_PT]=Jogar On-line Jogos em MS-DOS

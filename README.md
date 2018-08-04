@@ -4,7 +4,7 @@ Internet Arcade is library of arcade (coin-operated) video games from the 1970s 
 Classic Games lets you take a step back in time and revisit your favorite DOS and Windows games (PC demos, freeware, and shareware).
 MS-DOS Games collection includes action, strategy, adventure and other unique genres of game and entertainment software.
 
-Copyright (C) 2015-2017 Paweł Pijanowski
+Copyright (C) 2015-2018 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

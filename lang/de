@@ -1,0 +1,18 @@
+# German localization Datei for Sparky IA.
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# Under the GNU GPL v2
+# Last update 2018/03/15 by pavroo
+LOCAL1="Spiele online alte Spiele aus dem Internet-Archiv\nin deinem Web-browser."
+LOCAL2="x-www-browser ist nicht installiert!\n\nInstalliere einen Web-browser und versuche es erneut.\n\nBeende..."
+### sparky-ia.desktop Datei muss übersetzt werden nach
+# Name[de_DE]=Internet-Archiv-Spiele
+# Comment[de_DE]=Spiele online Internet-Archiv-Spiele
+### ia-arcade.desktop Datei muss übersetzt werden nach
+# Name[de_DE]=Internet Arcade-Spiele
+# Comment[de_DE]=Spiele online Internet Arcade-Spiele
+### ia-classicpc.desktop Datei muss übersetzt werden nach
+# Name[de_DE]=Classic PC Games
+# Comment[de_DE]=Spiele online klassische PC Games
+### ia-msdos.desktop Datei muss übersetzt werden nach
+# Name[de_DE]=MS-DOS Spiele
+# Comment[de_DE]=Spiele online MS-DOS Spiele

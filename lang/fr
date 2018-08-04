@@ -2,22 +2,17 @@
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
 # Sous licence GNU GPL v2
 # Last update 2017/06/06 by pavroo
-
 LOCAL1="Jouer en ligne les anciens jeux depuis les archives internet\ndans votre navigateur."
 LOCAL2="x-www-browser is not installed!\n\nInstall a web browser and try again.\n\nExiting..."
-
 ### sparky-ia.desktop file to be translated to
 # Name[fr_FR]]=Jeux des Archives Internet
 # Comment[fr_FR]]=Jouer en ligne les jeux des Archives Internet
-
 ### ia-arcade.desktop file to be translated to
 # Name[fr_FR]]=Jeux Arcades d'Internet
 # Comment[fr_FR]]=Jouer en ligne les jeux Arcades d'Internet
-
 ### ia-classicpc.desktop file to be translated to
 # Name[fr_FR]]=Jeux PC classiques
 # Comment[fr_FR]]=Jouer en ligne les jeux PC classiques
-
 ### ia-msdos.desktop file to be translated to
 # Name[fr_FR]]=Jeux MS-DOS
 # Comment[fr_FR]=Jouer en ligne les jeux MS-DOS
