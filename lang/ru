@@ -1,0 +1,18 @@
+# Файл русской локализации для Sparky IA.
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# Под лицензией GNU GPL v2
+# Last update 2017/06/06 by pavroo
+LOCAL1="Играть онлайн в старые игры из Интернет-Архива\nв вашем веб-браузере."
+LOCAL2="x-www-browser не установлен!\n\nУстановите веб-браузер и попробуйте снова.\n\nВыходим..."
+### sparky-ia.desktop file to be translated to ChourS
+# Name[ru_RU]=Интернет-Архив Игр
+# Comment[ru_RU]=Играть онлайн в игры из интернет архива 
+### ia-arcade.desktop file to be translated to
+# Name[ru_RU]=Интернет аркадные игры
+# Comment[ru_RU]=Играть онлайн в аркадные игры
+### ia-classicpc.desktop file to be translated to
+# Name[ru_RU]=Классические ПК игры
+# Comment[ru_RU]=Играть онлайн в классические ПК игры
+### ia-msdos.desktop file to be translated to
+# Name[ru_RU]=MS-DOS игры
+# Comment[ru_RU]=Играть онлайн в MS-DOS игры
