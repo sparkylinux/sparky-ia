@@ -1,0 +1,19 @@
+# Hungarian localization file for Sparky IA. (Translated by Nemomen)
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# Under the GNU GPL v2
+# Last update 2017/06/06 by pavroo
+LOCAL1="Játsszon on-line régi játékokat az Internet Archive-ról
+az Ön böngészőjén belül"
+LOCAL2="A x-www-browser nincs telepítve!\n\nTelepítse a webböngészőt és próbálja meg újra!\n\nKilépés..."
+### sparky-ia.desktop file to be translated to
+# Name[en_US]=Internet Archive Games
+# Comment[en_US]=Play Online Internet Archive Games
+### ia-arcade.desktop file to be translated to
+# Name[en_US]=Internet Arcade Games
+# Comment[en_US]=Play Online Internet Arcade Games
+### ia-classicpc.desktop file to be translated to
+# Name[en_US]=Classic PC Games
+# Comment[en_US]=Play Online Classic PC Games
+### ia-msdos.desktop file to be translated to
+# Name[en_US]=MS-DOS Games
+# Comment[en_US]=Play Online MS-DOS Games
