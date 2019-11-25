@@ -1,0 +1,18 @@
+# Greek localization file for Sparky IA.
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# Under the GNU GPL v2
+# Last update 2019/11/06 by jidan
+LOCAL1="Παίξτε παλαιότερα παιχνίδια OnLine από διαδικτυακά αρχεία\nμέσα από τον περιηγητή σας."
+LOCAL2="Δεν υπάρχει εγκατεστημένος διαδικτυακός περιηγητής!\n\nΕγκαταστήστε κάποιον και δοκιμάστε ξανά.\n\nΠραγματοποιείται έξοδος..."
+### sparky-ia.desktop file to be translated to
+# Name[el_GR]=Αρχεία Παιχνιδιών Διαδικτύου
+# Comment[el_GR]=Παίξτε Online Αρχεία Παιχνιδιών Διαδικτύου
+### ia-arcade.desktop file to be translated to
+# Name[el_GR]=Παιχνίδια Arcade στο Διαδίκτυο
+# Comment[el_GR]=Παίξτε Online Παιχνίδια Arcade
+### ia-classicpc.desktop file to be translated to
+# Name[el_GR]=Κλασικά Παιχνίδια για PC
+# Comment[el_GR]=Παίξτε Online Κλασικά Παιχνίδια για PC
+### ia-msdos.desktop file to be translated to
+# Name[el_GR]=Παιχνίδια MS-DOS
+# Comment[el_GR]=Παίξτε Online Παιχνίδια MS-DOS
