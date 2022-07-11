@@ -1,0 +1,19 @@
+# Spanish (es_ES) localization file for Sparky IA.
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/04
+# Under the GNU GPL v2
+# Last update 2017/06/06 by pavroo
+# Translated by depaz
+LOCAL1="Juegue a juegos antiguos on-line con Internet Archive desde su navegador."
+LOCAL2="¡x-www-browser no está instalado!\n\nInstale un navegador web e inténtelo de nuevo.\n\nSaliendo..."
+### sparky-ia.desktop file to be translated to
+# Name[es_ES]=Juegos de Internet Archive
+# Comment[es_ES]=Jugar on-line a juegos de Internet Archive
+### ia-arcade.desktop file to be translated to
+# Name[es_ES]=Juegos de Internet Arcade
+# Comment[es_ES]=Jugar on-line a juegos de Internet Arcade
+### ia-classicpc.desktop file to be translated to
+# Name[en_ES]=Juegos clásicos de PC
+# Comment[es_US]=Jugar on-line a juegos clásicos de PC
+### ia-msdos.desktop file to be translated to
+# Name[en_ES]=Juegos de MS-DOS
+# Comment[es_ES]=Jugar on-line a juegos de MS-DOS

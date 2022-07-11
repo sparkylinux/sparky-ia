@@ -1,12 +1,13 @@
 # File di localizzazione in italiano per Sparky IA.
 # Copyright 2015 Carlo "malato" Troiani <abbassolafrangetta@gmail.com> 04/11/2015
 # Rilasciato sotto licenza GNU GPL v2
+# Ultimo aggiornamento 2022/05/18 by Yodel Sinatra <mastodon.uno/@YodelSinatra>
 # Last update 2017/06/06 by pavroo
-LOCAL1="Gioca Online ai vecchi giochi dall'Archivio Internet\ndentro il tuo browser web."
-LOCAL2="x-www-browser non e' installato!!\n\nInstalla un web browser e prova di nuovo.\n\nSto uscendo..."
+LOCAL1="Gioca Online ai vecchi giochi conservati in Internet Archive\ndirettamente nel tuo browser."
+LOCAL2="x-www-browser non è installato!\n\nInstalla un web browser e riprova.\n\nPuoi uscire..."
 ### sparky-ia.desktop file to be translated too
 # Name[it_IT]=Internet Archive Games
-# Comment[it_IT]=Gioca con i giochi dell'Archivio Internet Online
+# Comment[it_IT]=Gioca online con i giochi dell'Internet Archive
 ### ia-arcade.desktop file to be translated too
 # Name[it_IT]=Internet Arcade Games
 # Comment[it_IT]=Gioca agli Arcade online
